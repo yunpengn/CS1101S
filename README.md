@@ -1,6 +1,6 @@
 # CS1101S Programming Methodology
-CS1101S is a module taught in the Department of Computer Science at the NUS School of Computing. It serves as a rigorous and thorough introduction to programming methodology. The module follows the didactic strategy of the classic textbook Structure and Interpretation of Computer programs (SICP), which Harold Abelson and Gerald Jay Sussman developed for MIT introductory programming class 6.001.<br>
-It is taught in __Source, a sub-language of __JavaScript__.
+CS1101S is a module taught in the Department of Computer Science at the NUS School of Computing. It serves as a rigorous and thorough introduction to programming methodology. The module follows the didactic strategy of the classic textbook _Structure and Interpretation of Computer programs (SICP)_, which Harold Abelson and Gerald Jay Sussman developed for MIT introductory programming class 6.001.<br>
+It is taught in __Source__, a sub-language of __JavaScript__.
 
 ## Introduction
 This module is taught at National University of Singapore (NUS) during AY2016/2017 Semester 1.

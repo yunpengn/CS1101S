@@ -1,0 +1,67 @@
+{
+  "name": "ev3dev-lang",
+  "version": "1.0.0",
+  "description": "An interface to control an EV3 or other supported platform running ev3dev from JavaScript.",
+  "keywords": [
+    "ev3dev",
+    "ev3",
+    "lego",
+    "robotics"
+  ],
+  "homepage": "http://github.com/wasabifan/ev3dev-lang-js",
+  "bugs": {
+    "url": "http://github.com/wasabifan/ev3dev-lang-js/issues"
+  },
+  "author": {
+    "name": "WasabiFan",
+    "email": "WasabiFan@outlook.com"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-shell": "^1.0.1",
+    "grunt-typedoc": "0.2.3",
+    "grunt-ts": "5.5.0-beta.2",
+    "typescript": ">=1.8.0",
+    "mocha": "2.3.4",
+    "python-shell": "*"
+  },
+  "scripts": {
+    "test": "grunt tsc && ./node_modules/mocha/bin/mocha"
+  },
+  "files": [
+    "bin/"
+  ],
+  "main": "bin/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wasabifan/ev3dev-lang-js.git"
+  },
+  "gitHead": "d4dd1af840978b82c309a0acbebe1fa87e9a9466",
+  "_id": "ev3dev-lang@1.0.0",
+  "_shasum": "6a62e69b276ee2873526028fbe7f09e374e77e2d",
+  "_from": "ev3dev-lang@latest",
+  "_npmVersion": "3.2.1",
+  "_nodeVersion": "5.6.0",
+  "_npmUser": {
+    "name": "wasabifan",
+    "email": "wasabifan@outlook.com"
+  },
+  "dist": {
+    "shasum": "6a62e69b276ee2873526028fbe7f09e374e77e2d",
+    "tarball": "https://registry.npmjs.org/ev3dev-lang/-/ev3dev-lang-1.0.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "wasabifan",
+      "email": "wasabifan@outlook.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/ev3dev-lang-1.0.0.tgz_1463805273542_0.13316119997762144"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/ev3dev-lang/-/ev3dev-lang-1.0.0.tgz",
+  "readme": "ERROR: No README data found!"
+}

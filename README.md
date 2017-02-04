@@ -6,7 +6,7 @@ It is taught in __Source__, a sub-language of __JavaScript__.
 This module is taught at National University of Singapore (NUS) during AY2016/2017 Semester 1.
 
 Author: __Niu Yunpeng__<br>
-Matriculation No. __A0162492A__
+Matriculation No. __A016****A__
 
 ### About me
 I am currently a Year 1 undergraduate student at NUS. My major is Computer Engineering. I love programming and solving challenges. I received NUS Science & Technology (S&T) Scholarship and had good academic results.

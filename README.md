@@ -25,7 +25,40 @@ I was an Year 1 undergraduate student at NUS when taking this course. My major i
 
 ### 2017 Version
 
+Detailed description for 2017 version can be found [here](2017/README.md).
+
+- [Week 1: Introduction & Administration](2017/w01.pdf)
+- [Week 2: Computation, Source Language & Abstraction](2017/w02.pdf)
+- [Week 3: Abstraction, Recursion & Order of Growth](2017/w03.pdf)
+- [Week 4: Recursion & Higher-order Programming](2017/w04.pdf)
+- [Week 5: Data Abstraction & List Processing](2017/w05.pdf)
+- [Week 6: List & Tree Processing](2017/w06.pdf)
+- [Week 7: Data Structure Design & Mid-term Review](2017/w07.pdf)
+- [Week 8: Language Processing & LEGO Programming](2017/w08.pdf)
+- [Week 9: Mutable Data & Array](2017/w09.pdf)
+- [Week 10: Memoization & Object-oriented Programming](2017/w10.pdf)
+- [Week 11: Object-oriented Programming](2017/w11.pdf)
+- [Week 12: Meta-circular Evaluator](2017/w12.pdf)
+- [Week 13: Web Development & Final Review](2017/w13.pdf)
+
 ### 2018 Version
 
-## Others
-This project is under [GNU Public License (GPL) 3.0](http://www.gnu.org/licenses/gpl-3.0.en.html).
+Detailed description for 2018 version can be found [here](2018/README.md).
+
+- [Week 1: Introduction & Administration](2018/w01.pdf)
+- [Week 2: Computation, Source Language & Abstraction](2018/w02.pdf)
+- [Week 3: Abstraction, Recursion & Order of Growth](2018/w03.pdf)
+- [Week 4: Higher-order Programming & Language Processing](2018/w04.pdf)
+- [Week 5: Data Abstraction & List Processing](2018/w05.pdf)
+- [Week 6: List & Tree Processing](2018/w06.pdf)
+- [Week 7: LEGO Programming, Sorting & Mid-term Review](2018/w07.pdf)
+- [Week 8: Data Structure Design & Stateful Programming](2018/w08.pdf)
+- [Week 9: Environment Model, Array & Loop](2018/w09.pdf)
+- [Week 10: Iteration & Memoization](2018/w10.pdf)
+- [Week 11: Stream](2018/w11.pdf)
+- [Week 12: Object & Meta-circular Evaluator](2018/w12.pdf)
+- [Week 13: Web Development & Final Review](2018/w13.pdf)
+
+## Licence
+
+[GNU General Public License 3.0](LICENSE)

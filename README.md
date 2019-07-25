@@ -10,7 +10,7 @@ National University of Singapore__
 
 It is taught in __Source__, a sub-language of __JavaScript__. The module is run on a digital platform, called [Source Academy](https://sourceacademy.nus.edu.sg/).
 
-## About me
+## About Me
 
 I was an Year 1 undergraduate student at NUS when taking this course. My major is Computer Engineering. I love programming and solving challenges. I received NUS Science & Technology (S&T) Scholarship and had good academic results.
 
@@ -19,12 +19,13 @@ I was an Year 1 undergraduate student at NUS when taking this course. My major i
 - Facebook: [@Yunpeng Niu](https://www.facebook.com/NeilNiuYunpeng)
 - LinkedIn: [@Yunpeng Niu](https://www.linkedin.com/in/yunpeng-niu)
 
-## Features
+## My Slides
 
-- Lecture notes
-- Recitations
-- Missions
-- Sidequests
+[Yunpeng](https://yunpengn.github.io/) has served as tutor for CS1101S twice, in AY2017/2018 Semester 1 and AY2018/2019 Semester 1 respectively. To give back to the community and benefit students from the future batches, Yunpeng has decided to open-source his slides for the tutorial sessions.
+
+### 2017 Version
+
+### 2018 Version
 
 ## Others
 This project is under [GNU Public License (GPL) 3.0](http://www.gnu.org/licenses/gpl-3.0.en.html).
